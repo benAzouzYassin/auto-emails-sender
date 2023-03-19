@@ -58,5 +58,3 @@ while True:
             except:
                 print("error on sending the mail")
     sleep(86400)
-
-#
